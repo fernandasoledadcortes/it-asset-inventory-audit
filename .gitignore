@@ -1,0 +1,12 @@
+# Datos y salidas: nunca se publican (material del ejercicio / ficticio)
+crudo/
+elaborado/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Sistema
+.DS_Store
